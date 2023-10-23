@@ -1,16 +1,22 @@
-### Hi there 👋
 
-<!--
-**BasKrueger/BasKrueger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+   <img src="readme/banner.gif " alt="Karashuta Banner"><br>
+</p>
 
-Here are some ideas to get you started:
+<div align="center">
+  
+# Major Projects
+<p> click on the Projects to learn more about them </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Karashuta](readme/KarashutaBanner.png)](https://github.com/BasKrueger/Karashuta_)
+  
+# Side Projects
+<p> click on the Projects to learn more about them </p>
+
+[![ComingSoon](readme/ComingSoonBanner.png)](https://github.com/BasKrueger)
+
+[![NotSkystones](readme/NotSkystoneBanner.png)](https://github.com/BasKrueger/Not-Skystone)
+
+[![ProjectMergeDefense](readme/MergeDefenseBanner.png)](https://github.com/BasKrueger/MergeDefense)
+
+</div>
