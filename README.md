@@ -8,12 +8,12 @@
 # Major Projects
 <p> click on the Projects to learn more about them </p>
 
-[![Karashuta](readme/KarashutaBanner.png)](https://github.com/BasKrueger)
+[![Karashuta](readme/KarashutaBanner.png)](https://github.com/BasKrueger/Karashuta_)
   
 # Side Projects
 <p> click on the Projects to learn more about them </p>
 
-[![ComingSoon](readme/ComingSoonBanner.png)](https://github.com/BasKrueger/Not-Skystone)
+[![ComingSoon](readme/ComingSoonBanner.png)](https://github.com/BasKrueger)
 
 [![NotSkystones](readme/NotSkystoneBanner.png)](https://github.com/BasKrueger/Not-Skystone)
 
