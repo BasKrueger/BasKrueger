@@ -6,12 +6,12 @@ So why not check out what I have been up to recently?
   
 # Major Projects
 
-<p> click on the Projects to learn more about them </p>
+<p> Bigger projects that I created together with other developers and/or over a longer period of time. <br> Click on the Projects to learn more about them.</p>
 
 [![Karashuta](readme/KarashutaBanner.png)](https://github.com/BasKrueger/Karashuta_)
   
 # Side Projects
-<p> click on the Projects to learn more about them </p>
+<p> Smaller projects that were mostly created for self educational purposes. <br> Click on the Projects to learn more about them.</p>
 
 [![ProjectMergeDefense](readme/MergeDefenseBanner.png)](https://github.com/BasKrueger/MergeDefense)
 
