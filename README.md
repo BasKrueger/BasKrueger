@@ -17,6 +17,6 @@ So why not check out what I have been up to recently?
 
 [![NotSkystones](readme/NotSkystoneBanner.png)](https://github.com/BasKrueger/Not-Skystone)
 
-[![FlappyBirdWonder](readme/FlappyBirdWonderBanner.png)]([https://github.com/BasKrueger/FlappyBirdWonder/tree/main])
+[![FlappyBirdWonder](readme/FlappyBirdWonderBanner.png)]([https://github.com/BasKrueger/FlappyBirdWonder])
 
 </div>
