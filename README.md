@@ -15,8 +15,7 @@ So why not check out what I have been up to recently?
 
 [![ProjectMergeDefense](readme/MergeDefenseBanner.png)](https://github.com/BasKrueger/MergeDefense)
 
+[![NotMercenaries](readme/NotMercenariesBanner.png)](https://github.com/BasKrueger/NotMercenaries/tree/main)
+
 [![NotSkystones](readme/NotSkystoneBanner.png)](https://github.com/BasKrueger/Not-Skystone)
-
-[![FlappyBirdWonder](readme/FlappyBirdWonderBanner.png)](https://github.com/BasKrueger/FlappyBirdWonder)
-
 </div>
