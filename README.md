@@ -10,7 +10,7 @@ So why not check out what I have been up to recently?
 
 [![Karashuta](readme/KarashutaBanner.png)](https://github.com/BasKrueger/Karashuta_)
 
-[![ScrapFeverBanner](readme/ScrapFeverBanner.png)](https://github.com/BasKrueger/ScrapFever/tree/main)
+[![ScrapFeverBanner](readme/ScrapFeverBanner_.png)](https://github.com/BasKrueger/ScrapFever/tree/main)
   
 # Side Projects
 <p> Smaller projects that were mostly created for self educational purposes. <br> Click on the Projects to learn more about them.</p>
