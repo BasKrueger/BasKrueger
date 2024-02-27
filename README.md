@@ -14,7 +14,9 @@ So why not check out what I have been up to recently?
   
 # Side Projects
 <p> Smaller projects that were mostly created for self educational purposes. <br> Click on the Projects to learn more about them.</p>
+
 [![NotMercenaries](readme/NotMercenariesBanner.png)](https://github.com/BasKrueger/NotMercenaries/tree/main)
 
 [![ProjectMergeDefense](readme/MergeDefenseBanner.png)](https://github.com/BasKrueger/MergeDefense)
+
 </div>
