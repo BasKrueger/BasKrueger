@@ -8,16 +8,13 @@ So why not check out what I have been up to recently?
 
 <p> Bigger projects that I created together with other developers and/or over a longer period of time. <br> Click on the Projects to learn more about them.</p>
 
-[![Karashuta](readme/KarashutaBanner.png)](https://github.com/BasKrueger/Karashuta_)
-
 [![ScrapFeverBanner](readme/ScrapFeverBanner_.png)](https://github.com/BasKrueger/ScrapFever/tree/main)
+
+[![Karashuta](readme/KarashutaBanner.png)](https://github.com/BasKrueger/Karashuta_)
   
 # Side Projects
 <p> Smaller projects that were mostly created for self educational purposes. <br> Click on the Projects to learn more about them.</p>
-
-[![ProjectMergeDefense](readme/MergeDefenseBanner.png)](https://github.com/BasKrueger/MergeDefense)
-
 [![NotMercenaries](readme/NotMercenariesBanner.png)](https://github.com/BasKrueger/NotMercenaries/tree/main)
 
-[![NotSkystones](readme/NotSkystoneBanner.png)](https://github.com/BasKrueger/Not-Skystone)
+[![ProjectMergeDefense](readme/MergeDefenseBanner.png)](https://github.com/BasKrueger/MergeDefense)
 </div>
