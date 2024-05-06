@@ -8,6 +8,8 @@ So why not check out what I have been up to recently? You can also find me on [L
 
 <p> Bigger projects that I created together with other developers and/or over a longer period of time. <br> Click on the Projects to learn more about them.</p>
 
+[![ANN_Banner](readme/ANN_Banner.png)](https://github.com/BasKrueger/Approachable-Artifical-Neural-Network)
+
 [![ScrapFeverBanner](readme/ScrapFeverBanner_.png)](https://github.com/BasKrueger/ScrapFever/tree/main)
 
 [![Karashuta](readme/KarashutaBanner.png)](https://github.com/BasKrueger/Karashuta_)
