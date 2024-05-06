@@ -21,6 +21,6 @@ So why not check out what I have been up to recently? You can also find me on [L
 
 [![NotMercenaries](readme/NotMercenariesBanner.png)](https://github.com/BasKrueger/NotMercenaries/tree/main)
 
-[![NotMercenaries](readme/NotMercenariesBanner.png)](https://github.com/BasKrueger/NotMercenaries/tree/main)
+[![NotMercenaries](readme/MergeDefenseBanner.png)](https://github.com/BasKrueger/MergeDefense)
 
 </div>
