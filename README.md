@@ -17,8 +17,10 @@ So why not check out what I have been up to recently? You can also find me on [L
 # Side Projects
 <p> Smaller projects that were mostly created for self educational purposes. <br> Click on the Projects to learn more about them.</p>
 
+[![ComingSoon](readme/ComingSoonBanner.png)](https://github.com/BasKrueger)
+
 [![NotMercenaries](readme/NotMercenariesBanner.png)](https://github.com/BasKrueger/NotMercenaries/tree/main)
 
-[![ProjectMergeDefense](readme/MergeDefenseBanner.png)](https://github.com/BasKrueger/MergeDefense)
+[![NotMercenaries](readme/NotMercenariesBanner.png)](https://github.com/BasKrueger/NotMercenaries/tree/main)
 
 </div>
