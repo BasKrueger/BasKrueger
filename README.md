@@ -23,4 +23,6 @@ So why not check out what I have been up to recently? You can also find me on [L
 
 [![NotMercenaries](readme/MergeDefenseBanner.png)](https://github.com/BasKrueger/MergeDefense)
 
+[![NotSkyStone](readme/NotSkystoneBanner.png)](https://github.com/BasKrueger/Not-Skystone)
+
 </div>
