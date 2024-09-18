@@ -6,7 +6,7 @@ So why not check out what I have been up to recently? You can also find me on [L
   
 # Major Projects
 
-<p> Bigger projects that I created together with other developers and/or over a longer period of time. <br> Click on the Projects to learn more about them.</p>
+<p> A selection of bigger projects that I created together with other developers and/or over a longer period of time. <br> Click on the Projects to learn more about them.</p>
 
 [![ANN_Banner](readme/ANN_Banner_.png)](https://github.com/BasKrueger/Approachable-Artifical-Neural-Network)
 
@@ -15,14 +15,17 @@ So why not check out what I have been up to recently? You can also find me on [L
 [![Karashuta](readme/KarashutaBanner.png)](https://github.com/BasKrueger/Karashuta_)
   
 # Side Projects
-<p> Smaller projects that were mostly created for self educational purposes. <br> Click on the Projects to learn more about them.</p>
+<p> A selection of smaller projects that were mostly created for self educational purposes. <br> Click on the Projects to learn more about them.</p>
 
 <!-- [![ComingSoon](readme/ComingSoonBanner.png)](https://github.com/BasKrueger) -->
-
-[![NotSkyStone2.0](readme/NotSkystone2.0Banner.png)](https://github.com/BasKrueger/Not-Skystone-2.0/tree/main)
 
 [![NotMercenaries](readme/NotMercenariesBanner.png)](https://github.com/BasKrueger/NotMercenaries/tree/main)
 
 [![NotMercenaries](readme/MergeDefenseBanner.png)](https://github.com/BasKrueger/MergeDefense)
+
+# Updates
+<p> A selection of bigger updates I did to already existing projects. <br> Click on the Projects to learn more about them.</p>
+
+[![NotSkyStone2.0](readme/NotSkystone2.0Banner.png)](https://github.com/BasKrueger/Not-Skystone-2.0/tree/main)
 
 </div>
