@@ -19,10 +19,10 @@ So why not check out what I have been up to recently? You can also find me on [L
 
 <!-- [![ComingSoon](readme/ComingSoonBanner.png)](https://github.com/BasKrueger) -->
 
+[![NotSkyStone2.0](readme/NotSkystone2.0Banner.png)](https://github.com/BasKrueger/Not-Skystone-2.0/tree/main)
+
 [![NotMercenaries](readme/NotMercenariesBanner.png)](https://github.com/BasKrueger/NotMercenaries/tree/main)
 
 [![NotMercenaries](readme/MergeDefenseBanner.png)](https://github.com/BasKrueger/MergeDefense)
-
-[![NotSkyStone](readme/NotSkystoneBanner.png)](https://github.com/BasKrueger/Not-Skystone)
 
 </div>
