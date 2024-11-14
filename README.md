@@ -1,6 +1,6 @@
-Hi, I'm Bastian, an ongoing game developer that's currently studying Game Engineering at the [S4G School for Games](https://www.school4games.net/).
-I've been making games as a hobby since 2019 and am learning professional game programming since 2022. I'm almost ready to put my foot into the door of the wide world of video game studios.
-So why not check out what I have been up to recently? You can also find me on [LinkedIn](www.linkedin.com/in/bastian-krüger-648837256).
+Hi, I'm Bastian, an ongoing game developer that's currently studying Game Engineering at the [S4G School for Games].
+Like many of you I love video games. In fact, I enjoy them so much I started created my own. What started as a hobby (which in itself started with a bored friday afternoon in the 9. grade), has now become my profession. Of course this doesn't have to mean that I have to give up that hobby, so I continue working side projects. 
+Below this introduction you can find a selected overview of some of the projects I worked on. Also feel free to contact me on [Linkedin](www.linkedin.com/in/baskrueger)
 
 <div align="center">
   
