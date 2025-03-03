@@ -8,6 +8,8 @@ Feel free to check them out by clicking on the banners below.
 
 <p> A selection of bigger projects that I created together with other developers and/or over a longer period of time. <br> Click on the Projects to learn more about them.</p>
 
+[![ANN_Banner](readme/DLL_Banner.png)](https://github.com/BasKrueger/Idle-Cardgame)
+
 [![ANN_Banner](readme/ANN_Banner_.png)](https://github.com/BasKrueger/Approachable-Artifical-Neural-Network)
 
 [![ScrapFeverBanner](readme/ScrapFeverBanner_.png)](https://github.com/BasKrueger/ScrapFever/tree/main)
