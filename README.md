@@ -4,20 +4,14 @@ Of course this doesn't have to mean that I have to give up that hobby, so I cont
 Feel free to check them out by clicking on the banners below.
 <div align="center">
   
-# Major Projects
-
-<p> A selection of bigger projects that I created together with other developers and/or over a longer period of time. <br> Click on the Projects to learn more about them.</p>
+# Current Project
+<p> <br> Click on the Project to learn more about it.</p>
 
 [![ANN_Banner](readme/DLL_Banner.png)](https://github.com/BasKrueger/Idle-Cardgame)
 
-[![ANN_Banner](readme/ANN_Banner_.png)](https://github.com/BasKrueger/Approachable-Artifical-Neural-Network)
-
-[![ScrapFeverBanner](readme/ScrapFeverBanner_.png)](https://github.com/BasKrueger/ScrapFever/tree/main)
-
-[![Karashuta](readme/KarashutaBanner.png)](https://github.com/BasKrueger/Karashuta_)
   
 # Side Projects
-<p> A selection of smaller projects that were mostly created for self educational purposes. <br> Click on the Projects to learn more about them.</p>
+A selection of smaller projects that were mostly created for self educational purposes. <br> Click on the Projects to learn more about them.</p>
 
 <!-- [![ComingSoon](readme/ComingSoonBanner.png)](https://github.com/BasKrueger) -->
 
@@ -25,9 +19,15 @@ Feel free to check them out by clicking on the banners below.
 
 [![NotMercenaries](readme/MergeDefenseBanner.png)](https://github.com/BasKrueger/MergeDefense)
 
-# Updates
-<p> A selection of bigger updates I did to already existing projects. <br> Click on the Projects to learn more about them.</p>
-
 [![NotSkyStone2.0](readme/NotSkystone2.0Banner.png)](https://github.com/BasKrueger/Not-Skystone-2.0/tree/main)
+
+# Student Projects
+<p> An comprehensive overview of student project that I've been a part of at my time at the S4G - School for Games. <br> Click on the Projects to learn more about them.</p>
+
+[![ANN_Banner](readme/ANN_Banner_.png)](https://github.com/BasKrueger/Approachable-Artifical-Neural-Network)
+
+[![ScrapFeverBanner](readme/ScrapFeverBanner_.png)](https://github.com/BasKrueger/ScrapFever/tree/main)
+
+[![Karashuta](readme/KarashutaBanner.png)](https://github.com/BasKrueger/Karashuta_)
 
 </div>
