@@ -4,7 +4,7 @@ Of course this doesn't have to mean that I have to give up that hobby, so I cont
 Feel free to check them out by clicking on the banners below.
 <div align="center">
   
-# Current Project
+# Most recent Project
 <p> <br> Click on the Project to learn more about it.</p>
 
 [![ANN_Banner](readme/DLL_Banner.png)](https://github.com/BasKrueger/Idle-Cardgame)
